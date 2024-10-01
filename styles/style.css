@@ -1,1 +1,17 @@
+.container {
+    padding: 2.5vw;
+}
 
+.bg-primary {
+    background-color: rgb(140, 73, 36) !important;
+}
+
+.bg-primary-subtle {
+    background-color: rgb(228, 155, 119) !important;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 10vh;
+    object-fit: cover;
+}
